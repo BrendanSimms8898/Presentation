@@ -1,10 +1,3 @@
-"use strict";
-
-/**
- *WebSocket Interface
- */
-
-
 class JoinView {
     constructor() {
         this.userName = document.getElementById("user-name").value;
